@@ -3,11 +3,11 @@ import Form  from './Form'
 
 class App extends Component {
   constructor(props) {
-    super(props);
-    this.state = {  }
+    super(props)
+    this.state = {}
   }
   render() { 
-    return (<div><Form/></div> );
+    return (<div>Form</div>);
   }
 }
  
